@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vrproject/static/css/main.542a7464.css",
+    "main.js": "/vrproject/static/js/main.b4ce55fb.js",
+    "static/js/787.ff5c56c8.chunk.js": "/vrproject/static/js/787.ff5c56c8.chunk.js",
+    "static/media/estate2.mp4": "/vrproject/static/media/estate2.1ff871193599129cf115.mp4",
+    "static/media/salzburg.jpg": "/vrproject/static/media/salzburg.51ca979d2db4fcbcff57.jpg",
+    "static/media/rome.jpg": "/vrproject/static/media/rome.ec8dba3fc54ccdfbf2af.jpg",
+    "static/media/furniture.jpg": "/vrproject/static/media/furniture.2745c77121b66f45faf6.jpg",
+    "static/media/house.jpg": "/vrproject/static/media/house.5ee712a53934e954b437.jpg",
+    "static/media/bruges.jpg": "/vrproject/static/media/bruges.f76883da78887e8b74be.jpg",
+    "static/media/brussels.jfif": "/vrproject/static/media/brussels.ae89e05995f6de4b6f66.jfif",
+    "static/media/munich.jfif": "/vrproject/static/media/munich.a45330247d36a1a3c6ef.jfif",
+    "static/media/chip.png": "/vrproject/static/media/chip.f88a902d8d270caaf1ac.png",
+    "index.html": "/vrproject/index.html",
+    "main.542a7464.css.map": "/vrproject/static/css/main.542a7464.css.map",
+    "main.b4ce55fb.js.map": "/vrproject/static/js/main.b4ce55fb.js.map",
+    "787.ff5c56c8.chunk.js.map": "/vrproject/static/js/787.ff5c56c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542a7464.css",
+    "static/js/main.b4ce55fb.js"
+  ]
+}
