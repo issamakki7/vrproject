@@ -1,5 +1,6 @@
 {
   "name": "vrwebsite",
+  "homepage": "http://issamakki7.github.io/vrproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
